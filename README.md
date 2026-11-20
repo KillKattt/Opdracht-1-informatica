@@ -66,4 +66,18 @@ De taal naar Engels wordt gewijzigd
 Geen websitebestanden gewijzigd.
 
 </details>
+
+<details>
+<summary>20-11-2026 11:55:08 (UTC+01:00) | Opslaan | KillKattt | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** KillKattt
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [eda6d72deb2a7cdf1ca952ebc9b30bf573052fb6](https://github.com/KillKattt/Opdracht-1-informatica/commit/eda6d72deb2a7cdf1ca952ebc9b30bf573052fb6)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+</details>
 <!-- arhc-weblab:log:end -->
